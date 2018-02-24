@@ -8,6 +8,7 @@
 //   min-height: 100%;
 // }
 
+// From material.angular.io
 .app-sidenav-container {
   flex: 1;
   position: absolute;
@@ -24,7 +25,7 @@
 }
 
 .app-sidenav {
-  // padding: 240px;
+  width: 200px;
 }
 
 .wrapper {
